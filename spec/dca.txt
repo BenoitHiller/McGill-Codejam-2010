@@ -1,0 +1,50 @@
+B|67|43|00016 Corp
+B|30|28|00001 Corp
+B|10|0|Statistical Outlier Inc
+B|73|50|00023 Corp
+B|63|59|00032 Corp
+B|68|44|00017 Corp
+B|71|46|00019 Corp
+B|61|40|00013 Corp
+B|72|47|00020 Corp
+B|49|35|00008 Corp
+B|72|48|00021 Corp
+B|56|62|00035 Corp
+B|59|61|00034 Corp
+B|43|67|00040 Corp
+B|73|51|00024 Corp
+B|10|0|Statistical Outlier Inc
+B|10|0|Statistical Outlier Inc
+B|41|68|00041 Corp
+B|67|57|00030 Corp
+B|63|41|00014 Corp
+B|70|45|00018 Corp
+B|43|33|00006 Corp
+B|38|31|00004 Corp
+B|30|72|00045 Corp
+B|68|56|00029 Corp
+B|35|30|00003 Corp
+B|33|29|00002 Corp
+B|59|39|00012 Corp
+B|51|36|00009 Corp
+B|54|37|00010 Corp
+B|46|66|00039 Corp
+B|10|0|Statistical Outlier Inc
+B|35|70|00043 Corp
+B|49|65|00038 Corp
+B|10|0|Statistical Outlier Inc
+B|33|71|00044 Corp
+B|38|69|00042 Corp
+B|41|32|00005 Corp
+B|72|53|00026 Corp
+B|70|55|00028 Corp
+B|51|64|00037 Corp
+B|61|60|00033 Corp
+B|54|63|00036 Corp
+B|56|38|00011 Corp
+B|71|54|00027 Corp
+B|65|58|00031 Corp
+B|72|52|00025 Corp
+B|73|49|00022 Corp
+B|65|42|00015 Corp
+B|46|34|00007 Corp
