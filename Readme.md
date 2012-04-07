@@ -32,7 +32,7 @@ Instructions
 
 The code is not terribly easy to set up, as we were setting it up ourselves for the competition. The details on how we went about this are a bit fuzzy now two years later. We are using a MySQL database, which is set up as follows:
 
-    "CREATE DATABASE databasename; GRANT ALL ON databasename.* TO 'newusername'@'localhost' IDENTIFIED BY 'newpassword'; flush privileges;"
+    CREATE DATABASE databasename; GRANT ALL ON databasename.* TO 'newusername'@'localhost' IDENTIFIED BY 'newpassword'; flush privileges;
 
 Then there may come some fiddling, which is the not easy part. Especially if you want a secure database (because you are not running it on a secure VM like we were) then you would have to fiddle with the code to change the password.
 
